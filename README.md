@@ -16,7 +16,7 @@ The goal is to detect network intrusions — actions that threaten the **integri
 ## Data Preprocessing
 - **Min-Max Scaling** is applied to normalize feature values, helping improve model performance.[1]
 
-## Results: Accuracy Comparison
+## Results:
 
 | Algorithm                   | Accuracy (%)      |
 |-----------------------------|------------------|
